@@ -1,0 +1,33 @@
+[
+  {
+  "isim": "Hotteok (호떡)",
+  "malzemeler": ["abc", "abc", "abc"],
+  "yapilisi": "yemegin yapilisi",
+  "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  },
+    {
+  "isim": "Mandu (만두)",
+  "malzemeler": ["abc", "abc", "abc"],
+  "yapilisi": "yemegin yapilisi",
+  "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  },
+    {
+  "isim": "Bibimbap (비빔밥)",
+  "malzemeler": ["abc", "abc", "abc"],
+  "yapilisi": "yemegin yapilisi",
+  "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  },
+    {
+  "isim": "Ramyeon (라면)",
+  "malzemeler": ["abc", "abc", "abc"],
+  "yapilisi": "yemegin yapilisi",
+  "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  },
+    {
+  "isim": "Gamja-hotdog (감자핫도그)",
+  "malzemeler": ["abc", "abc", "abc"],
+  "yapilisi": "yemegin yapilisi",
+  "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  },
+
+]
