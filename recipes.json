@@ -3,31 +3,67 @@
   "isim": "Hotteok (호떡)",
   "malzemeler": "1 tutam maydonoz",
   "yapilisi": "yemegin yapilisi",
-  "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  "gorsel": "https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/hotteok.jpg"
   },
     {
   "isim": "Mandu (만두)",
   "malzemeler": "1 tutam maydonoz",
   "yapilisi": "yemegin yapilisi",
-  "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  "gorsel": "https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/mandu.jpg"
   },
     {
   "isim": "Bibimbap (비빔밥)",
   "malzemeler": "1 tutam maydonoz",
   "yapilisi": "yemegin yapilisi",
-  "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  "gorsel": "https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/bibimbap.jpg"
   },
     {
   "isim": "Ramyeon (라면)",
   "malzemeler": "1 tutam maydonoz",
   "yapilisi": "yemegin yapilisi",
-  "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  "gorsel": "https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/ramyeon.jpg"
   },
     {
   "isim": "Gamja-hotdog (감자핫도그)",
   "malzemeler": "1 tutam maydonoz",
   "yapilisi": "yemegin yapilisi",
-  "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  "gorsel": "https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/hotdog.jpg"
+  },
+    {
+  "isim": "Bibimguksu (비빔국수)",
+  "malzemeler": "1 tutam maydonoz",
+  "yapilisi": "yemegin yapilisi",
+  "gorsel": "https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/bibimguksu.jpg"
+  },
+    {
+  "isim": "Baesuk (배숙)",
+  "malzemeler": "1 tutam maydonoz",
+  "yapilisi": "yemegin yapilisi",
+  "gorsel": "https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/baesuk.jpg"
+  },
+    {
+  "isim": "Kimbap (김밥)",
+  "malzemeler": "1 tutam maydonoz",
+  "yapilisi": "yemegin yapilisi",
+  "gorsel": "https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/kimbap.jpg"
+  },
+    {
+  "isim": "Tteokbokki (떡볶이)",
+  "malzemeler": "1 tutam maydonoz",
+  "yapilisi": "yemegin yapilisi",
+  "gorsel": "https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/tteokbokki.jpg"
+  },
+    {
+  "isim": "Salatalık Kimchi",
+  "malzemeler": "1 tutam maydonoz",
+  "yapilisi": "yemegin yapilisi",
+  "gorsel": "https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/kimchi.jpg"
+  },
+    {
+  "isim": "Sebzeli Krep (야채전)",
+  "malzemeler": "1 tutam maydonoz",
+  "yapilisi": "yemegin yapilisi",
+  "gorsel": "https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/pajeon.jpg"
   }
 
 ]
