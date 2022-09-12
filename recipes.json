@@ -25,8 +25,19 @@
   },
     {
   "isim": "Gamja-hotdog (감자핫도그)",
-  "malzemeler": "1 tutam maydonoz",
-  "yapilisi": "yemegin yapilisi",
+  "malzemeler": "4 adet sosis
+1 adet büyük boy patates
+150 gr un
+2 yemek kaşığı kuru maya
+1 su bardağına yakın su
+50 gr ekmek kırıntısı veya panko
+1 çay kaşığı tuz
+Üzeri için şeker, ketçap, mayonez vb.",
+  "yapilisi": "Öncelik olarak su kaynatınız. Kaynamış suyu biraz soğumasını bekleyiniz. Yaklaşık 1 su bardağı ılık suyun içerisine 2 yemek kaşığı kuru maya ekleyiniz ve karıştırınız. 2-3 dakika sonra yavaş yavaş 150 gr unu ekleyin ve topaklanmaması için iyice karıştırınız. Son olarak 1 çay kaşığı tuz ekleyiniz ve son kez karıştırınız.
+Hamurunuzun üzerini kapatarak 1 saat mayalanmasını bekleyiniz.
+Patatesi küp küp doğrayınız ve kaynayan suda 2 dakika pişiriniz. Bu şekilde yaptığınızda patates nişastasını kaybedecek ve kızartıldığında daha çıtır olacaktır.
+Şimdi sırası ile sosisleri ilk önce hamurun içersine daldırıyoruz ve tamamen sosislerin üzerini hamurla kaplıyorsunuz. Daha sonra patateslere daldırıyoruz. Hamurun üzerine patates yapışıyor. Son olarak da ekmek kırıntısını üzerine serpiştiriyoruz.
+Tavaya sosisleri rahat şekilde kızartacak kadar yağ ekleyiniz. Yağı ısıttıktan sonra sosisleri pişirmeye başlayabilirsiniz. Üzerine şeker serpiştiriniz ve istediğiniz sosları ekleyerek lezzetlendirebilirsiniz. Afiyet Olsun 🙂",
   "gorsel": "https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/hotdog.jpg"
   },
     {
