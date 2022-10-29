@@ -294,7 +294,7 @@ Afiyet olsun.",
   "gorsel": "https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/pajeon.jpg"
   },
 {
-  "isim":"Orenji Ade (오렌지 에이드)",
+  "isim": "Orenji Ade (오렌지 에이드)",
   "malzemeler":"Yarım portakal
 1 şişe soda
 2 yemek kaşığı şeker
@@ -316,8 +316,8 @@ Afiyet olsun.
   "gorsel":"https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/orenji_ade.jpg"
 },
 {
-  "isim":"Bingsu (빙수)",
-  "malzemeler":"2 bardak süt
+  "isim": "Bingsu (빙수)",
+  "malzemeler": "2 bardak süt
 Yarım bardak su
 50 gr dolmalık fıstık (tercihe göre)
 50 gr badem (tercihe göre)
@@ -344,8 +344,8 @@ Afiyet Olsun.",
 "gorsel":"https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/bingsu.jpg"
 },
 {
-  "isim":"Jumeokbap (주먹밥)",
-  "malzemeler":"2 su bardağı pirinç
+  "isim": "Jumeokbap (주먹밥)",
+  "malzemeler": "2 su bardağı pirinç
 100 gr kıyma
 1 adet yosun
 1 adet salatalık
@@ -373,8 +373,8 @@ Afiyet olsun.",
   "gorsel":"https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/jumeokbap.jpg"
 },
 {
-  "isim":"Doenjang jjigae (된장찌개)",
-  "malzemeler":"1 adet kabak
+  "isim": "Doenjang jjigae (된장찌개)",
+  "malzemeler": "1 adet kabak
 1 adet patates
 3-4 adet mantar
 1 adet soğan
@@ -389,7 +389,7 @@ Afiyet olsun.",
 1 tatlı kaşığı kırmızı biber
 3.5 su bardağı pirinç suyu
 1 çay kaşığı tuz",
-  "yapilisi":"İlk olarak bütün sebzelerimizi doğruyoruz.
+  "yapilisi": "İlk olarak bütün sebzelerimizi doğruyoruz.
 
 1 yemek kaşığı yağı tencereye alıyoruz. Yağ ısınınca içerisine eti ekliyoruz. Etleri 2 dakika pişirdikten sonra 2 yemek kaşığı mirin ve 1 çay kaşığı tuzu içerisine ekliyoruz. Bu şekilde 4-5 dakika pişirmeye devam ediyoruz.
 
@@ -406,8 +406,8 @@ Afiyet olsun.",
   "gorsel":"https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/doenjang_jjigae.jpg"
 },
 {
-  "isim":"Kkakdugi (깍두기)",
-  "malzemeler":"350 gr Japon turpu
+  "isim": "Kkakdugi (깍두기)",
+  "malzemeler": "350 gr Japon turpu
 1 adet kırmızı elma
 1 yemek kaşığı pirinç unu
 3 yemek kaşığı balık sosu
@@ -417,7 +417,7 @@ Yeşil soğan dalları
 1 çay kaşığı ezilmiş zencefil
 6-7 adet sarımsak
 1 su bardağı su",
-  "yapilisi":"Japon turpunu küp küp doğruyoruz ve üzerine 1 tatlı kaşığı tuz serpiştiriyoruz. Karıştırınız ve 15-20 dakika bu şekilde bekletiniz.
+  "yapilisi": "Japon turpunu küp küp doğruyoruz ve üzerine 1 tatlı kaşığı tuz serpiştiriyoruz. Karıştırınız ve 15-20 dakika bu şekilde bekletiniz.
 
 Yeşil soğan dallarını büyük şekilde kesiyoruz. Elma, sarımsak ve zencefili küçük küçük doğruyoruz.
 
@@ -434,8 +434,8 @@ Afiyet olsun.",
   "gorsel":"https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/kkakdugi.jpg"
 },
 {
-  "isim":"Soegogi-muguk (쇠고기무국)",
-"malzemeler":"150 gr et
+  "isim": "Soegogi-muguk (쇠고기무국)",
+"malzemeler": "150 gr et
 200 gr Japon turpu
 2 adet lahana yaprağı
 1 parmak uzunluğunda pırasa
@@ -459,8 +459,8 @@ Afiyet olsun.
 "gorsel":"https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/soegogi_muguk.jpg"
 },
 {
-  "isim":"Sangchu-geotjeori (상추겉절이)",
-  "malzemeler":"100 gr marul
+  "isim": "Sangchu-geotjeori (상추겉절이)",
+  "malzemeler": "100 gr marul
 5-6 adet yeşil soğan dalı
 1 parmak büyüklüğünde pırasa
 1 adet soğan
@@ -484,8 +484,8 @@ Afiyet olsun.
   "gorsel":"https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/sangchu_geotjeori.jpg"
 },
 {
-  "isim":"Janchi-guksu (잔치국수)",
-  "malzemeler":"150 gr somyeon eriştesi
+  "isim": "Janchi-guksu (잔치국수)",
+  "malzemeler": "150 gr somyeon eriştesi
 2 yemek kaşığı dashi (balık bulyonu)
 2 yemek kaşığı soya sosu
 1 adet havuç
@@ -505,8 +505,8 @@ Oldukça basit ve lezzetli bir tarif. Afiyet olsun.
   "gorsel":"https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/janchi_guksu.jpg"
 },
 {
-  "isim":"Siraegi-guk (시래기국)",
-  "malzemeler":"50 gr kurutulmuş turp yaprağı
+  "isim": "Siraegi-guk (시래기국)",
+  "malzemeler": "50 gr kurutulmuş turp yaprağı
 5 su bardağı pirinç suyu
 2 yemek kaşığı doenjang
 1 yemek kaşığı gochujang
@@ -526,8 +526,8 @@ Yeşil soğan gibi sebzelerin saçak kısımlarını özellikle tavuk veya et ha
   "gorsel":"https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/siraegi_guk.jpg"
 },
 {
-  "isim":"Dakbokkeumtang (닭볶음탕)",
-  "malzemeler":"4 adet tavuk but
+  "isim": "Dakbokkeumtang (닭볶음탕)",
+  "malzemeler": "4 adet tavuk but
 1 adet patates
 1 adet havuç
 1 adet soğan
@@ -560,8 +560,8 @@ Afiyet olsun.",
 "gorsel":"https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/dakbokkeumtang.jpg"
 },
 {
-  "isim":"Sarada (사라다)",
-  "malzemeler":"1 adet elma
+  "isim": "Sarada (사라다)",
+  "malzemeler": "1 adet elma
 1 adet armut
 1 adet mandalina
 2 adet küçük salatalık
