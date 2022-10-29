@@ -407,7 +407,7 @@ Afiyet olsun.",
 },
 {
   "isim":"Kkakdugi (깍두기)",
-  "malzemeler:"350 gr Japon turpu
+  "malzemeler":"350 gr Japon turpu
 1 adet kırmızı elma
 1 yemek kaşığı pirinç unu
 3 yemek kaşığı balık sosu
@@ -482,5 +482,26 @@ Afiyet olsun.
   Son olarak hepsini karıştırıyoruz ve servis ediyoruz. Üzerine susam serpiştirerek daha lezzetli hale getirebilirsiniz. Afiyet Olsun. 
   ",
   "gorsel":"https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/sangchu_geotjeori.jpg"
+},
+{
+  "isim":"Janchi-guksu (잔치국수)",
+  "malzemeler":"150 gr somyeon eriştesi
+2 yemek kaşığı dashi (balık bulyonu)
+2 yemek kaşığı soya sosu
+1 adet havuç
+1/3 kabak",
+  "yapilisi":"2 yemek kaşığı dashi ile 5 su bardağı suyu bir tencere içerisinde karıştırıyoruz. Karışımı yaklaşık 10-15 dakika kaynatıyoruz.
+
+Başka bir tencerenin içerisine su ekliyoruz ve kaynatıyoruz. Su kaynadıktan sonra erişteleri ilave ediyoruz. Toplam 3-4 dakika eriştelerin pişirilmesi yeterlidir. Daha sonra erişteleri süzüyor ve soğuk sudan geçiriyoruz.
+
+Kabak ve havucu ince dilimlerde kesiyoruz.
+
+Önceden tavayı ısıtıyoruz. Isınan tavaya 1 yemek kaşığı yağı ekliyoruz. Daha sonra kabak ve havucu 2-3 dakika pişiriyoruz.
+
+Son olarak da yaptıklarımızı birleştirme zamanı. Eriştelerimizi kaseye alıyoruz üzerine hazırladığımız sıcak dashi suyunu ilave ediyoruz. Son olarak pişirdiğimiz kabak ve havucu ilave ediyoruz. Ben soya sosunu yemeden önce ilave ettim. Ama siz dilerseniz dashi suyu hazırlarken ilave edebilirsiniz.
+
+Oldukça basit ve lezzetli bir tarif. Afiyet olsun.
+",
+  "gorsel":"https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/janchi_guksu.jpg"
 }
 ]
