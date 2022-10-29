@@ -369,5 +369,38 @@ Hazırladığımız malzemeler şimdi pirinç toplarını yapma zamanı. İlk ol
   
 Afiyet olsun.",
   "gorsel":"https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/jumeokbap.jpg"
+},
+{
+  "isim":"Doenjang jjigae (된장찌개)",
+  "malzemeler":"1 adet kabak
+1 adet patates
+3-4 adet mantar
+1 adet soğan
+3-4 dal yeşil soğan yaprağı
+1 adet yeşil biber
+150 gr et
+200 gr tofu
+3 yemek kaşığı doenjang (soya fasulyesi ezmesi)
+1 yemek kaşığı ssamjang
+1 tatlı kaşığı ezilmiş sarımsak
+2 yemek kaşığı mirin
+1 tatlı kaşığı kırmızı biber
+3.5 su bardağı pirinç suyu
+1 çay kaşığı tuz",
+  "yapilisi":"İlk olarak bütün sebzelerimizi doğruyoruz.
+
+1 yemek kaşığı yağı tencereye alıyoruz. Yağ ısınınca içerisine eti ekliyoruz. Etleri 2 dakika pişirdikten sonra 2 yemek kaşığı mirin ve 1 çay kaşığı tuzu içerisine ekliyoruz. Bu şekilde 4-5 dakika pişirmeye devam ediyoruz.
+
+Pişen etlerin içerisine doğradığımız patates ve soğanı ekliyoruz. Bu şekilde 2-3 dakika pişirmeye devam ediyoruz.
+
+Daha sonra doenjang ve ssamjang sosunu bir süzgecin üzerine koyuyoruz. Süzgece pirinç suyunu ekleyerek yavaş yavaş sosu bu şekilde tencerenin içine ilave ediyoruz. Bu şekilde sos tamamen eritilmiş olacaktır. Pirinç suyunun ve sosun tamamını tencere ile buluşturduktan sonra ezilmiş sarımsak ve toz biberi ilave ediyoruz. Hepsini beraber 15 dakika boyunca kaynatıyoruz.
+
+Daha sonraki adım mantar ve kabakları tencere içerisine eklemek. Bu şekilde de 2-3 dakika pişirmeye devam ediyoruz.
+
+Son olarak tofu, yeşil biber ve yeşil soğanı tenceremize ekleyerek 2 dakika yeniden pişiriyoruz.
+
+
+Afiyet olsun.",
+  "gorsel":"https://raw.githubusercontent.com/betul-sahin/JSONVeriSeti/main/doenjang-jjigae.jpg"
 }
 ]
